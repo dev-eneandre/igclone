@@ -1,0 +1,17 @@
+.app__signin {
+  display: flex;
+  flex-direction: column;
+}
+.app__signin input {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.app__signup {
+  display: flex;
+  flex-direction: column;
+}
+.app__signup input {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}

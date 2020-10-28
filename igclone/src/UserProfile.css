@@ -1,0 +1,14 @@
+.profile {
+  width: 350px;
+  margin-left: 20px;
+  height: 370px;
+  background-color: #ffffff;
+  border: 1px solid lightgray;
+  position: fixed;
+  right: 13%;
+}
+@media only screen and (max-width: 768px) {
+  .profile {
+    display: none;
+  }
+}
